@@ -1,7 +1,7 @@
 # 💫 About Me
 
 ## 👩‍💻 Who I Am
-I'm a Computer Science graduate passionate about Python development, Machine Learning, and Artificial Intelligence. I worked as a CAD Software Developer at Zixel Technologies, where I contributed to the development and implementation of CAD software. I enjoy exploring new technologies and turning ideas into practical solutions.
+I'm a Computer Science graduate passionate about Python development, Machine Learning, and Artificial Intelligence. I worked as a CAD Software Developer at Zixel Technology, where I contributed to the development and implementation of CAD software. I enjoy exploring new technologies and turning ideas into practical solutions.
 
 ## 🔭 What I'm Currently Working On
 - Exploring Machine Learning concepts and algorithms
