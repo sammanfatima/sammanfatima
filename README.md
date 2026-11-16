@@ -1,5 +1,32 @@
-# 💫 About Me:
-👩‍💻 **Who I Am**<br>I'm a Computer Science Graduate passionate about Python Development, Machine Learning, and Artificial Intelligence. I have professional experience working as a CAD Software Developer at Zixel Technology, where I contributed to CAD software development and implementation. I enjoy exploring new technologies and turning ideas into practical solutions.<br>🌱 **What I'm Currently Working On**<br>Exploring Machine Learning concepts and algorithms.<br>Learning FastAPI for backend development.<br>Building Python-based applications and AI-powered projects.<br>Improving my problem-solving and development skills.<br>🛠️ **Tools & Technologies** I Use<br>Languages: Python, C++<br>Machine Learning: NumPy, Pandas, Scikit-learn, Matplotlib, PyTorch<br>Development: Streamlit, FastAPI, PyQt5<br>Tools: Git, GitHub, VS Code, Google Colab<br>👯** I'm currently learning: FastAPI, Machine Learning algorithms, PyTorch, and backend development.<br>📫 How to Reach Me<br>Email: fatima37406@gmail.com<br>LinkedIn: https://linkedin.com/in/samman-fatima-140a112b7<br>✨ My Philosophy<br>"Dream. Learn. Build. Repeat."<br><br>Always curious, continuously learning, and creating something meaningful along the way.
+# 💫 About Me
+
+## 👩‍💻 Who I Am
+I'm a Computer Science graduate passionate about Python development, Machine Learning, and Artificial Intelligence. I worked as a CAD Software Developer at Zixel Technologies, where I contributed to the development and implementation of CAD software. I enjoy exploring new technologies and turning ideas into practical solutions.
+
+## 🔭 What I'm Currently Working On
+- Exploring Machine Learning concepts and algorithms
+- Learning FastAPI for backend development
+
+## 🌱 Currently Learning
+- FastAPI and backend development
+- Machine Learning algorithms
+- PyTorch and Deep Learning
+- Building AI-powered applications
+
+## 🛠️ Tools & Technologies
+- **Languages:** Python, C++
+- **Machine Learning:** NumPy, Pandas, Scikit-learn, Matplotlib, PyTorch
+- **Development:** Streamlit, FastAPI, PyQt5, OpenCV
+- **Tools:** Git, GitHub, GitLab, VS Code, Google Colab
+
+## 🤝 Looking to Collaborate On
+Python development, Machine Learning, AI-powered applications, and innovative software projects.
+
+## 📫 How to Reach Me
+- **Email:** fatima37406@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/samman-fatima-140a112b7/
+
+
 
 
 ## 🌐 Socials:
