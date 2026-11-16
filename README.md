@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Samman Fatima! 👋
 
-<!--
-**sammanfatima/sammanfatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Who I Am
+I'm a Computer Science Graduate passionate about Python Development, Machine Learning, and Artificial Intelligence. I enjoy exploring new technologies and turning ideas into practical solutions.
 
-Here are some ideas to get you started:
+### 🌱 What I'm Currently Working On
+- Exploring Machine Learning concepts and algorithms.
+- Learning FastAPI for backend development.
+- Building Python-based applications and AI-powered projects.
+- Improving my problem-solving and development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies I Use
+- **Languages:** Python, C++
+- **Machine Learning:** NumPy, Pandas, Scikit-learn, Matplotlib, PyTorch
+- **Development:** Streamlit, FastAPI, PyQt5
+- **Tools:** Git, GitHub, VS Code, Google Colab
+
+### 📫 How to Reach Me
+- **Email:** fatima37406@gmail.com
+- **LinkedIn:** https://linkedin.com/in/samman-fatima-140a112b7
+
+---
+
+### ✨ My Philosophy
+*"Dream. Learn. Build. Repeat."*
+
+**Always curious, continuously learning, and creating something meaningful along the way.**
